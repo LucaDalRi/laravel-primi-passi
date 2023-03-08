@@ -10,9 +10,20 @@
 
 <body>
 
-    <h1>
-        Hello World!
-    </h1>
+    <div class="container">
+
+        <div class="containerLinks">
+
+            <ul>
+                <li><a href="../views/Contattaci.blade.php">Contattaci</a></li>
+                <li><a href="../views/Privacy.blade.php">Privacy</a></li>
+                <li><a href="../views/Termini.blade.php">Termini</a></li>
+                <li><a href="../views/RiguardoANoi.blade.php">Rigardo a noi</a></li>
+            </ul>
+
+        </div>
+
+    </div>
 
 </body>
 
